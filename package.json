@@ -1,0 +1,12 @@
+{
+  "name": "account-balance-dashboard",
+  "version": "1.0.0",
+  "main": "dist/pages/dashboard.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/pages/dashboard.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
